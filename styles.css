@@ -1,0 +1,198 @@
+body {
+ background-image: url("https://images4.alphacoders.com/574/574726.jpg");   
+}
+.power {
+ width: 25%;   
+}
+.levelone {
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+}
+.next {
+ display:none;
+ background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+}
+.finish {
+ display:none;
+ background-color: #FFFF00;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;   
+}
+.restart {
+  background-color: #FE0A0A;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;  
+}
+.passion1 {
+ display: none;
+ width: 25%;
+}
+.passion2 {
+ display: none;
+ width: 25%;
+}
+.passion3 {
+ display: none;
+ width: 25%;
+}
+.passion4 {
+ display: none;
+ width: 25%;
+}
+.passion5 {
+ display: none;
+ width: 25%;
+}
+.passion6 {
+ display: none;
+ width: 25%;
+}
+.passion7 {
+ display: none;
+ width: 25%;
+}
+.passion8 {
+ display: none;
+ width: 25%;
+}
+.passion9 {
+ display: none;
+ width: 25%;
+}
+.passion10 {
+ display: none;
+ width: 25%;
+}
+.passion11 {
+ display: none;
+ width: 25%;
+}.passion12 {
+ display: none;
+ width: 25%;
+}
+.next2 {
+ display:none;
+ background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;   
+}
+.level2 {
+ display: none;   
+}
+.next3 {
+    display:none;
+ background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;  
+}
+.level3 {
+ display: none;
+}
+.level1 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 50px;
+}
+.computer1 {
+ display: none;
+ width: 20%;
+}
+.computer2 {
+ display: none;
+ width: 20%;
+}
+.computer3 {
+ display: none;
+ width: 20%;
+}
+.computer4 {
+ display: none;
+ width: 20%;
+}
+.computer5 {
+ display: none;
+ width: 20%;
+}
+.computer6 {
+ display: none;
+ width: 20%;
+}
+.computer7 {
+ display: none;
+ width: 20%;
+}
+.computer8 {
+ display: none;
+ width: 20%;
+}
+.computer9{
+ display: none;
+ width: 20%;
+}
+.computer10 {
+ display: none;
+ width: 20%;
+}
+.computer11 {
+ display: none;
+ width: 20%;
+}
+.computer12 {
+ display: none;
+ width: 20%;
+}
+.computer13 {
+ display: none;
+ width: 20%;
+}
+.computer14 {
+ display: none;
+ width: 20%;
+}
+.computer15 {
+ display: none;
+ width: 20%;
+}
+.EXIT {
+    display:none;
+    background-color: red;
+    border: 20px;
+  color: white;
+  padding: 100px 300px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 100px;  
+}
+#countdown{
+    display:none;
+    text-align:end;
+    font-size:40px;
+  
+}
+#countdown2{
+    display:none;
+    text-align:end;
+    font-size:40px;
+}
